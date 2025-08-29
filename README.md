@@ -22,15 +22,52 @@
 
 ### فایل‌های اصلی پروژه
 
-- `Vmess.txt` : کانفیگ‌های Vmess
-- `Vless.txt` : کانفیگ‌های Vless
-- `Trojan.txt` : کانفیگ‌های Trojan
-- `ShadowSocks.txt` : کانفیگ‌های Shadowsocks
-- `Hysteria2.txt` : کانفیگ‌های Hysteria2 و Hy2
-- `Tuic.txt` : کانفیگ‌های Tuic و Tuic5
-- `WireGuard.txt` : کانفیگ‌های WireGuard
-- `Other.txt` : سایر کانفیگ‌های شناخته نشده یا خاص
-- `All_Config_part1.txt`, `All_Config_part2.txt`, ... : همه کانفیگ‌ها به صورت یکجا و بخش‌بندی شده
+
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part1.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part2.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part3.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part4.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part5.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part6.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part7.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part8.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part9.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part10.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part11.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part12.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part13.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part14.txt
+```
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part15.txt
+```
 
 ### نحوه استفاده
 
