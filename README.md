@@ -1,10 +1,10 @@
 # SubSync
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tahmaseb73/SubSync)
-![GitHub Stars](https://img.shields.io/github/stars/tahmaseb73/SubSync?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/tahmaseb73/SubSync?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/tahmaseb73/SubSync)
-![License](https://img.shields.io/github/license/tahmaseb73/SubSync)
+![GitHub repo size](https://img.shields.io/github/repo-size/Argh94/SubSync)
+![GitHub Stars](https://img.shields.io/github/stars/Argh94/SubSync?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Argh94/SubSync?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Argh94/SubSync)
+![License](https://img.shields.io/github/license/Argh94/SubSync)
 
 ---
 
