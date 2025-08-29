@@ -1,6 +1,6 @@
 # SubSync
 
-<p align="center">
+<palign="center">
   ![GitHub repo size](https://img.shields.io/github/repo-size/Argh94/SubSync)
   ![GitHub Stars](https://img.shields.io/github/stars/Argh94/SubSync?style=social)
   ![GitHub Forks](https://img.shields.io/github/forks/Argh94/SubSync?style=social)
