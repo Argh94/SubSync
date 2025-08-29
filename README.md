@@ -96,3 +96,4 @@ https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part
 اگر این پروژه برای شما مفید بود، با دادن ستاره ⭐ و فورک کردن پروژه از آن حمایت کنید!
 
 ---
+![Alt](https://repobeats.axiom.co/api/embed/01f0c01d630c84c07382f2699b417672aa0bb46a.svg "Repobeats analytics image")
