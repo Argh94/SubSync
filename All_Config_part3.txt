@@ -1,10 +1,3 @@
-ss://653d4b04-43da-46b7-f52d-4abdcc768627@91.98.21.55:12249?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=r7fSsUJtoqdtpIidkVHEjfdzaEdmyHmQdQ6ePxAC1Vc&fp=chrome&sni=🔒
-ss://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80/?type=ws&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaa...
-ss://654538ef-5726-4076-82e3-af10f02debf2@bg.com:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-ss://654538ef-5726-4076-82e3-af10f02debf2@bg.com:80?path=🔒
-ss://6549cbdd-13d9-46d8-c1c9-4ea7bae11a40@re.freedrping.store:443?encryption=none&security=tls&type=ws&path=🔒
-ss://655309ff-3b17-4c47-8984-7646d1581bdd@162.159.129.11:2053/?type=ws&encryption=none&host=joinmahdiserver.colib63603.workers.dev&path=%2Fjoinmahdiserver.colib63603.workers.dev%2F%3Fed%3D2560&security=tls&sni=joinmahdiserver.colib63603.workers.dev&fp=randomized#%40Hope_Net-join-us-on-Telegram
-ss://655309ff-3b17-4c47-8984-7646d1581bdd@162.159.129.11:2053/?type=ws&encryption=none&host=joinmahdiserver.colib63603.workers.dev&path=🔒
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#فیلترشکن
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?TELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#@v2ray313
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=🔒
@@ -39,6 +32,8 @@ ss://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?security=none&encry
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443/?type=ws&encryption=none&host=blog.ruangguru.com.servpn.my.id&path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B13%5D
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&host=blog.ruangguru.com.servpn.my.id&path=/sg3?ed=2560/?ed=2048#✅
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?encryption=none&security=tls&sni=🔒
+ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
+ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=#TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@IRAN_V2RAY1
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@NpvV2rayFilTer
 ss://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Selinc
@@ -148,8 +143,6 @@ ss://67219d1a-4cd4-45ed-e610-d776aea3dd3d@www.zula.ir:8880?type=ws&path=🔒
 ss://672cc605-8f17-4bb1-917a-b82d3faf86d4@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=🔒
 ss://67386427-2cfb-441d-9888-e0c5066ff8b2@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir.&type=httpupgrade#🇩🇪
 ss://67386427-2cfb-441d-9888-e0c5066ff8b2@190.93.244.170:2082?path=🔒
-ss://673fdf31-1a3c-4ec1-9c05-9bc6193af965@83.147.18.179:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&sid=5bef46444e87&spx=/&type=tcp&headerType=http&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com#[🇬🇧]t.me/ConfigsHub
-ss://673fdf31-1a3c-4ec1-9c05-9bc6193af965@83.147.18.179:443?encryption=none&security=reality&sni=🔒
 ss://674fee1e-0036-4814-a68d-c41c939b59a0@test.fast.hosting-ip.com:80/?type=ws&encryption=none&host=KEISJWJ.COM&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#Telegram%2B%3A%2B%40Mrsoulb%2B%F0%9F%8F%B3%EF%BF%BD%25B
 ss://674fee1e-0036-4814-a68d-c41c939b59a0@test.fast.hosting-ip.com:80/?type=ws&encryption=none&host=KEISJWJ.COM&path=🔒
 ss://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443/?type=ws&encryption=none&host=kkkkkkkkkn.890601.xyz&path=%2FIpfrZdyuhfl2p8BiMhP42l&security=tls&sni=KKkkKkKKkn.890601.XYZ&alpn=http%2F1.1&fp=chrome#12%E2%8F%B0%40oneclickvpnkeys
@@ -174,8 +167,10 @@ ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?Jo
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#All_@IRAN_V2RAY1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@MARAMBASHI
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?TELEGRAM-V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?TELEGRAM-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=🔒
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?security=tls&encryption=none&type=ws&host=blog.ruangguru.com.servpn.my.id&path=/id5?ed=2560/?Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-Telegram:@king_v2raay—-?ed=512&sni=blog.ruangguru.com.servpn.my.id&fp=chrome#Telegram:@king_v2raay
@@ -189,9 +184,11 @@ ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2048Join
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?%4z-----@V2r&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#proxy_kafee
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#☞
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#☞
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#→
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#[🇨🇦]t.me/ConfigsHub
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars-ekhtesasi
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#bia
@@ -215,6 +212,7 @@ ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=#TELEGRA
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#🇩🇪
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@HiByeVPNN👈⚡❤️‍🔥
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@i10VPN
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=🔒
@@ -228,6 +226,7 @@ ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%3Fed%3D2
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#@Hddify---@V2rayBaaz---@Hddify---@Hddify?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#→
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#JOIN---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars-ekhtesasi
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN---TELEGRAM-AchaVPN?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@MARAMBASHI
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#برای
@@ -268,6 +267,7 @@ ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?pa
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Daily_Configs
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@Selinc
+ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@configfree_1
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@i10VPN
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars
 ss://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#All_@IRAN_V2RAY1
@@ -663,7 +663,6 @@ ss://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=/--------ff
 ss://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=🔒
 ss://6bd32f93-c930-4bbb-9d16-146508a469b6@46.62.156.195:25694?type=tcp&security=none
 ss://6bd32f93-c930-4bbb-9d16-146508a469b6@46.62.156.195:25694?type=tcp&security=none#t.me/entryNET/config=1842008842732532
-ss://6bd32f93-c930-4bbb-9d16-146508a469b6@46.62.156.195:25694?type=tcp&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:31.94ms
 ss://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narco_nett%20%5B17%5D
 ss://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=🔒
 ss://6be09091-9322-425e-b2ad-2b67fbd55044@www.speedtest.net:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=WWW.dollardoon.com&type=ws#@v2rayfast_7❤️‍🔥
@@ -757,6 +756,7 @@ ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?pa
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=#TELEGRAM-TELEGRAM-V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS--------------V2RAYNG_FARS?ed=512&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@v2rayng_fars
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=#TELEGRAM-TELEGRAM-V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=512&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@v2rayng_fars
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@amirw_shop_q
+ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@configfree_1
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@i10VPN
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@v2ray313
 ss://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?path=/kr1?ed=2560&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#All_@IRAN_V2RAY1
@@ -1149,6 +1149,7 @@ ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?encryption=none&s
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@ata_connect
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#Telegram
+ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#💎کانفیگ
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/?*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*&security=&encryption=none&type=ws#☞
@@ -1202,7 +1203,7 @@ ss://712e7715-0f22-4a5e-a986-a39427853fa3@172.67.73.233:80?path=/@vmessorg----@v
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@172.67.73.233:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@icv2ray
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@172.67.73.233:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@mehrosaboran
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@172.67.73.233:80?path=🔒
-ss://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=%56%6D%65%73%73%6F%72%67.paradoxone.ir&path=/@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67-----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67?ed%3D2480&security=none#🌐سرور
+ss://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=%56%6D%65%73%73%6F%72%67.paradoxone.ir&path=/@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67-----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67----@%76%6D%65%73%73%6F%72%67?ed%3D2480&security=none#🌐
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=%56%6D%65%73%73%6F%72%67.paradoxone.ir&path=🔒
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید
 ss://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪
@@ -2313,7 +2314,6 @@ ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn28.saloonak.ir:8443?security=none&e
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?encryption=none&security=none&type=tcp&headerType=none
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?encryption=none&security=none&type=tcp&headerType=none#@meli_proxyy
-ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?encryption=none&security=none&type=tcp&headerType=none#🇩🇪[openproxylist.com]
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&encryption=none&headerType=none&type=tcp
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
@@ -3619,8 +3619,6 @@ ss://85a0d5ad-76a0-4502-be4c-fd04e8c88c87@77.81.81.69:49822?type=tcp
 ss://85a0d5ad-76a0-4502-be4c-fd04e8c88c87@88.209.249.84:38282?type=tcp
 ss://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 ss://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=🔒
-ss://85ad246f-f915-48df-b87c-ed4724f60e68@104.17.234.128:8080?security=none&type=ws&host=join.bede.VMESSORG.www.speedtest.net.de.Abrha.co.sabadyt.ir&path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=8080#Telegram:@config_proxy
-ss://85ad246f-f915-48df-b87c-ed4724f60e68@104.17.234.128:8080?security=none&type=ws&host=join.bede.VMESSORG.www.speedtest.net.de.Abrha.co.sabadyt.ir&path=🔒
 ss://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?security=tls&encryption=none&type=ws&host=api2.htve.ir&path=/&sni=api2.htve.ir&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 ss://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?security=tls&encryption=none&type=ws&host=api2.htve.ir&path=🔒
 ss://85b82e66-e9cb-49c7-be5b-81b3ae1bda90@45.149.12.166:8880/?type=ws&encryption=none&flow=&host=mehdiama.vpntestvpn794.workers.dev&path=🔒
@@ -3739,6 +3737,7 @@ ss://86f18e8b-0c66-4d47-b086-85e71d13b1f0@63.141.128.5:8080?path=🔒
 ss://86f90371-59d6-44e2-ab00-94c5ab16d2bc@192.109.200.254:443?security=reality&alpn=http/1.1&encryption=none&pbk=NPYS2vq3gQlU2h9EzaL-_93PIEpHLEHDSo8eYWCjw3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 ss://870028b4-69aa-45f5-a6fd-5063870ab641@45.154.197.56:17007?encryption=none&security=none&sni=🔒
 ss://8717aec5-a546-4dfa-b97d-399b167a8491@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#=@&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@icv2ray
+ss://8717aec5-a546-4dfa-b97d-399b167a8491@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@configfree_1
 ss://8717aec5-a546-4dfa-b97d-399b167a8491@172.66.40.99:80?path=🔒
 ss://87205395-37eb-490f-b9cf-71ac7ea0327b@134.209.232.144:2233?security=reality&encryption=none&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.tgju.org&sid=e0#@netv2reyngداخل
 ss://87205395-37eb-490f-b9cf-71ac7ea0327b@134.209.232.144:2233?security=reality&encryption=none&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
@@ -3829,6 +3828,8 @@ ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=n
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=🔒
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#%3E%3E%40FreakConfig%3A%3ADE
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#[🇨🇦]t.me/ConfigsHub
+ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#t.me/entryNET/config=1842015573943691
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#🇩🇪@FreakConfig
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=🔒
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776510.VtNeT.infO&type=ws&alpn=h2http/1.1&host=&path=/#telegram
@@ -4392,8 +4393,8 @@ ss://8b562c77-fc99-4d25-9100-d8c0849cc9ff@198.202.211.78:2053/?type=ws&encryptio
 ss://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053/?type=ws&encryption=none&host=cosi.bvzizx.com&path=%2Fwss37193&security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com#%40Hope_Net-join-us-on-Telegram
 ss://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053/?type=ws&encryption=none&host=cosi.bvzizx.com&path=🔒
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?encryption=none&security=tls&sni=b5r.ir&alpn=http/1.1&fp=chrome&type=ws&host=s.s.google.com.b5r.ir.&path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#Telegram:@config_proxy
-ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?encryption=none&security=tls&sni=b5r.ir&alpn=http/1.1&fp=chrome&type=ws&host=s.s.google.com.b5r.ir.&path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#[🇨🇦]t.me/ConfigsHub
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?encryption=none&security=tls&sni=🔒
+ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@meli_proxyy
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpnowl%20%5B19%5D
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@MARAMBASHI
@@ -4402,6 +4403,8 @@ ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/?TELEGRAM-MARA
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@bored_vpn
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@mehrosaboran
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#🇩🇪[All]
+ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&securi…#Telegram:@config_proxy
+ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&securi…#[🇨🇦]t.me/ConfigsHub
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=tar_vpn&security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#@V2RAYROZ
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=🔒
 ss://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?security=tls&alpn=http%2F1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B18%5D
@@ -4541,6 +4544,7 @@ ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=%2Ftelegram-CON
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=az88.mashkestan.com&type=ws#RELAY🚩
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=az241.motorbazan.com&type=ws#🇳🇱
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=cb116.mashkestan.com&type=ws#🇳🇱
+ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=cb161.mashkestan.com&type=ws#@configfree_1
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@172.66.40.99:8080?path=🔒
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@89.34.230.116:8880?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&extra={
 ss://8d15b73e-da60-4d4e-a76f-cea00cc68085@89.34.230.116:8880?mode=auto&path=🔒
@@ -4559,9 +4563,6 @@ ss://8d65d671-e313-44ad-88b2-0a17f648fa51@108.162.196.159:443/?type=xhttp&encryp
 ss://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#US🇺🇸
 ss://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=spirako.com&fp=chrome&security=reality&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&sid=#%40Hope_Net-join-us-on-Telegram
 ss://8d7a09ce-7285-4713-babf-b3ac9ad58605@93.123.46.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-ss://8d968d0e-c9ad-48ff-94a6-329fe5232495@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram:@config_proxy
-ss://8d968d0e-c9ad-48ff-94a6-329fe5232495@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#t.me/entryNET/config=1842000348362911
-ss://8d968d0e-c9ad-48ff-94a6-329fe5232495@104.17.26.182:2087?path=🔒
 ss://8d9eaf7c-0da5-4414-9911-975add3b9e69@151.101.3.8:80?mode=auto&path=/V3xhttp?ed=2048&security=&encryption=none&extra={
 ss://8d9eaf7c-0da5-4414-9911-975add3b9e69@151.101.3.8:80?mode=auto&path=🔒
 ss://8dae6d63-c26e-47aa-b124-71cfb688e7ba@www.speedtest.net:8080?path=🔒
@@ -4695,7 +4696,6 @@ ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443/?type=tcp&encryption=n
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@v2ray313
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
-ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇸[openproxylist.com]
 ss://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 ss://8e72da07-0429-432e-8f0a-e9a3d4fc538f@151.101.130.133:80/?type=ws&encryption=none&host=JOin.ELiV2-R-A-Y.io
 ss://8e72da07-0429-432e-8f0a-e9a3d4fc538f@151.101.130.133:80/?type=ws&encryption=none&host=JOin.ELiV2-R-A-Y.io#%40Hope_Net-join-us-on-Telegram
@@ -5067,6 +5067,7 @@ ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:8
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@AYMH19
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=🔒
+ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@meli_proxyy
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B20%5D
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
@@ -5172,7 +5173,6 @@ ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?path=🔒
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80/?type=ws&encryption=none&flow=&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=🔒
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80/?type=ws&encryption=none&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev
-ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/#Telegram:@config_proxy
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=/?ed=2560#⚓️Ch:
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.24.132.5:80?encryption=none&security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=🔒
 ss://946b3994cbcc402cbd93c7f9df4d1c3bOg==@104.16.179.157:80#RELAY%F0%9F%9A%A9+%7C+104.16.179.157-80+%7C+5.68ms
@@ -5671,6 +5671,7 @@ ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=🔒
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@v2ray313
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?path=/?**&security=none&encryption=none&type=ws#Telegram:@config_proxy
+ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?path=/?**&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80?path=🔒
 ss://9927f18c-9483-4980-8a04-dcd95373dc72@104.20.157.73:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=/?ed=2048&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram
 ss://9927f18c-9483-4980-8a04-dcd95373dc72@104.20.157.73:443?security=tls&sni=🔒
@@ -5845,7 +5846,6 @@ ss://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?path=/?ed=2048@HiByeV
 ss://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?path=🔒
 ss://9ae18aa0-8887-4913-a35a-9f014d58d100@188.114.97.0:443/?type=ws&encryption=none&flow=&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&path=🔒
 ss://9ae2dc18-005d-4824-ae22-befaddf4f295@www.speedtest.net:443?encryption=none&security=tls&sni=🔒
-ss://9aeb99dd-56d1-450c-ac93-a64ee332b1da@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#VPNKEY-Netherlands
 ss://9aee985c-4f96-41ad-c2d4-c601f0f2aa4f@binex.tv.sedanor.ir:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=chess.com&type=ws#BinexTify
 ss://9aee985c-4f96-41ad-c2d4-c601f0f2aa4f@binex.tv.sedanor.ir:2053?path=🔒
 ss://9aeec840-1c63-4836-b085-f5480a51d858@185.146.173.117:2095/?type=httpupgrade&encryption=none&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.torob.com.myloveiran.site.&path=%2Ftelegram-radixvpn%2Ctelegram-radixvpn%2Ctelegram-radixvpn%2Ctelegram-radixvpn%2Ctelegram-radixvpn%2Ctelegram-radixvpn%3Fed%3D2560#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
@@ -6127,6 +6127,7 @@ ss://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727/?type=tcp&e
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B16%5D
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇬🇧
+ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#Telegram:@config_proxy
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#[🇬🇧]t.me/ConfigsHub
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#فردا
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#𝗝𝗼𝗶𝗻
@@ -7619,6 +7620,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40imhdiyvp%20%5B8%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@AYMH19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@configfree_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.157-8080+%7C+84.89ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#میخوای
@@ -7663,6 +7665,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+beesyar.org-8080+%7C+427.08ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@vip.nl-16-07.galaxymc-ssh.ir:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@vip.nl-16-07.galaxymc-ssh.ir:8080#@configfree_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Ynh3c1lTM24weXB0YlcwZmZKZWtu@193.233.207.191:16381
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzQzNzZjNS1iMzIyLTRiNDItODgzMC1mYzcyODAyMmUzNzJAbGxwLXNoY3QuYWNneXQuY29tOjM4ODg5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJkYTlmYzEyNjI4ZGZh@157.173.123.5:45395
@@ -7686,6 +7690,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@ai_duet
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@configfree_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@v2ray26:🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Ain-3
@@ -8034,6 +8039,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🇳🇱[openproxylist.com]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5eXlZSW4zT0lxNzcwcXVYWHZYQ2dR@91.99.188.112:1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5eXlZSW4zT0lxNzcwcXVYWHZYQ2dR@91.99.188.112:1080#@configfree_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+83.147.216.70-64519+%7C+127.63ms
@@ -8305,6 +8312,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#TG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇷🇴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#@Mrconfig_Channel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#@configfree_1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+216.173.70.187-57456+%7C+111.64ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#فیلترشکن
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456
@@ -8535,8 +8543,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:808#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808#%40shadmanegi_vpn%F0%9F%91%88%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.30.197:808
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@65.20.115.194:808
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@65.20.115.194:808#🇸🇪[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JKQDEwMy4yMTUuMjE4LjczOjgwOA==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JKQDEwMy4yMTUuMjE4LjczOjgwOA==#Telegram:@king_v2raay
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.125.213:443
@@ -9810,6 +9816,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#🇨🇦@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#🇨🇦[openproxylist.com]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMUtNam5idHprZjhLdEpIbWJtcmJh@194.87.216.218:52571
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMUtNam5idHprZjhLdEpIbWJtcmJh@194.87.216.218:52571?note=--Telegram--@NetifyVPN--
@@ -9943,6 +9950,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE=@89.185.84.172:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443#%F0%9F%8D%AA54%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0%3D@45.151.62.131:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU03@45.151.62.131:443#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.151.62.131-443+%7C+119.9ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#@MARAMBASHI
@@ -9990,11 +9998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.138-0196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.138-4971
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0363
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#@F1lterbreakerbot```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0196
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.217-0246
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.227-0199
