@@ -13,6 +13,7 @@
 ## معرفی پروژه
 
 **SubSync** یک پروژه جمع‌آوری و همگام‌سازی خودکار کانفیگ‌های اشتراکی سرویس‌های VPN از چندین منبع معتبر است. این پروژه فایل‌های کانفیگ را بر اساس پروتکل (Vmess, Vless, Trojan, Shadowsocks, Hysteria2, Tuic و WireGuard و ...) دسته‌بندی کرده و به صورت مرتب آن‌ها را در این مخزن قرار می‌دهد.
+---
 
 ### ویژگی‌ها
 
@@ -21,6 +22,8 @@
 - به‌روزرسانی کاملاً خودکار هر **۳ ساعت یکبار**
 - فایل‌های بزرگ به صورت بخش‌بندی شده (Chunked) قرار می‌گیرند
 - فایل **All_Config** شامل تمام کانفیگ‌های جمع‌آوری شده
+
+---
 
 ### فایل‌های اصلی پروژه
 
@@ -35,8 +38,6 @@
 | Trojan | [`Trojan`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Trojan.txt) |
 | Tuic | [`Tuic`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Tuic.txt) |
 </div>
-
----
 
 
 ### SUB 1
