@@ -26,6 +26,7 @@
 
 
 <div align="center">
+  
 | پروتکل | لینک دانلود |
 |:-------:|:------------:|
 | Hysteria2 | [`Hysteria2`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Hysteria2.txt) |
