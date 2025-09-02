@@ -24,6 +24,20 @@
 
 ### فایل‌های اصلی پروژه
 
+div align="center">
+
+| پروتکل | لینک دانلود |
+|:-------:|:------------:|
+| Hysteria2 | [`Hysteria2`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Hysteria2.txt) |
+| ShadowSocks | [`ShadowSocks,vmess,vless`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/ShadowSocks.txt) |
+| ShadowSocksR | [`ShadowSocksR`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/ShadowsocksR.txt) |
+| Trojan | [`Trojan`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Trojan.txt) |
+| Tuic | [`Tuic`](https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/Tuic.txt) |
+</div>
+
+---
+
+
 
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part1.txt
@@ -61,15 +75,7 @@ https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part12.txt
 ```
-```bash
-https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part13.txt
-```
-```bash
-https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part14.txt
-```
-```bash
-https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part15.txt
-```
+
 
 ### نحوه استفاده
 
