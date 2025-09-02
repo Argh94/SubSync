@@ -43,36 +43,47 @@
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part1.txt
 ```
+### SUB 2
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part2.txt
 ```
+### SUB 3
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part3.txt
 ```
+### SUB 4
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part4.txt
 ```
+### SUB 5
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part5.txt
 ```
+### SUB 6
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part6.txt
 ```
+### SUB 7
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part7.txt
 ```
+### SUB 8
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part8.txt
 ```
+### SUB 9
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part9.txt
 ```
+### SUB 10
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part10.txt
 ```
+### SUB 11
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part11.txt
 ```
+### SUB 12
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part12.txt
 ```
