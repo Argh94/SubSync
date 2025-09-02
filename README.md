@@ -39,7 +39,7 @@
 ---
 
 
-
+###SUB 1
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part1.txt
 ```
