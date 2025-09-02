@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/github/last-commit/Argh94/SubSync" alt="Last Commit">
   <img src="https://img.shields.io/github/license/Argh94/SubSync" alt="License">
   <img src="https://img.shields.io/badge/Uptime-99.9%2525-brightgreen" alt="Uptime Badge">
+  <img src="https://img.shields.io/badge/Updated_Every_3_Hours-passing-success">
+  <img src="./list/total.svg">
+  
 </div>
 
 ---
