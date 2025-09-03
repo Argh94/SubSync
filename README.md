@@ -91,7 +91,10 @@ https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part
 ```bash
 https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part12.txt
 ```
-
+### SUB 13
+```bash
+https://raw.githubusercontent.com/Argh94/SubSync/refs/heads/main/All_Config_part13.txt
+```
 
 ### نحوه استفاده
 
