@@ -4,4 +4,4 @@
 #support-url: https://github.com/coldwater-10/V2ray-Config
 #profile-web-page-url: https://github.com/coldwater-10/V2ray-Config
 #profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBIeXN0ZXJpYTLwn6W3
-trojan:?M|$pIEDnf8N@172.66.44.59:443?path=/trjlFIcjqAklnJcJjx/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#4Mohsen-4423
+trojan:?M|$pIEDnf8N@172.66.44.59:443?path=/trjlFIcjqAklnJcJjx/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7imOMi--3t3xcStZT8pp4dlZUEsKN.PagEs.deV#4Mohsen-4468
