@@ -1,0 +1,110 @@
+
+2025-09-07T12:00:07.971Z: Starting config fetch...
+2025-09-07T12:00:07.971Z: Processing URLs: 9
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/tuic.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/hysteria2.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/hysteria2.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
+2025-09-07T12:00:07.971Z: Fetching https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+2025-09-07T12:00:08.332Z: Cached data for https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/tuic.txt
+2025-09-07T12:00:08.332Z: Processing 41 configs from https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/tuic.txt
+2025-09-07T12:00:08.332Z: Cached data for https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt
+2025-09-07T12:00:08.332Z: Processing 11 configs from https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Tuic.txt
+2025-09-07T12:00:08.420Z: Cached data for https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/hysteria2.txt
+2025-09-07T12:00:08.420Z: Processing 50 configs from https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/hysteria2.txt
+2025-09-07T12:00:08.521Z: Cached data for https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/hysteria2.txt
+2025-09-07T12:00:08.521Z: Processing 324 configs from https://raw.githubusercontent.com/10ium/V2ray-Config/refs/heads/main/Splitted-By-Protocol/hysteria2.txt
+2025-09-07T12:00:08.526Z: Cached data for https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt
+2025-09-07T12:00:08.526Z: Processing 8318 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt
+2025-09-07T12:00:08.604Z: Cached data for https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+2025-09-07T12:00:08.604Z: Processing 6786 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt
+2025-09-07T12:00:08.857Z: Cached data for https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
+2025-09-07T12:00:08.857Z: Processing 31852 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
+2025-09-07T12:00:08.914Z: Cached data for https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all
+2025-09-07T12:00:08.914Z: Processing 16050 configs from https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all
+2025-09-07T12:00:09.418Z: Cached data for https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt
+2025-09-07T12:00:09.418Z: Processing 49213 configs from https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt
+2025-09-07T12:00:09.418Z: Configs fetched: [{"protocol":"hysteria2://","count":364},{"protocol":"hy2://","count":0},{"protocol":"hysteria://","count":0},{"protocol":"ss://","count":102298},{"protocol":"shadowsocks://","count":0},{"protocol":"ssr://","count":38},{"protocol":"trojan://","count":9882},{"protocol":"tuic://","count":47},{"protocol":"tuic5://","count":0},{"protocol":"vless://","count":0},{"protocol":"vmess://","count":0},{"protocol":"wireguard://","count":0},{"protocol":"other://","count":7}]
+2025-09-07T12:00:09.418Z: Total configs for All_Config.txt: 112636
+2025-09-07T12:00:09.418Z: Preparing to upload All_Config_part1.txt with 10000 configs
+2025-09-07T12:00:09.747Z: Attempt 1 to update All_Config_part1.txt
+2025-09-07T12:00:11.537Z: Successfully updated All_Config_part1.txt and stored hash
+2025-09-07T12:00:11.537Z: File All_Config_part1.txt updated in GitHub
+2025-09-07T12:00:11.537Z: Preparing to upload All_Config_part2.txt with 10000 configs
+2025-09-07T12:00:11.753Z: Attempt 1 to update All_Config_part2.txt
+2025-09-07T12:00:13.233Z: Successfully updated All_Config_part2.txt and stored hash
+2025-09-07T12:00:13.233Z: File All_Config_part2.txt updated in GitHub
+2025-09-07T12:00:13.233Z: Preparing to upload All_Config_part3.txt with 10000 configs
+2025-09-07T12:00:13.464Z: Attempt 1 to update All_Config_part3.txt
+2025-09-07T12:00:14.535Z: Successfully updated All_Config_part3.txt and stored hash
+2025-09-07T12:00:14.535Z: File All_Config_part3.txt updated in GitHub
+2025-09-07T12:00:14.535Z: Preparing to upload All_Config_part4.txt with 10000 configs
+2025-09-07T12:00:14.788Z: Attempt 1 to update All_Config_part4.txt
+2025-09-07T12:00:15.864Z: Successfully updated All_Config_part4.txt and stored hash
+2025-09-07T12:00:15.864Z: File All_Config_part4.txt updated in GitHub
+2025-09-07T12:00:15.864Z: Preparing to upload All_Config_part5.txt with 10000 configs
+2025-09-07T12:00:16.057Z: Attempt 1 to update All_Config_part5.txt
+2025-09-07T12:00:17.221Z: Successfully updated All_Config_part5.txt and stored hash
+2025-09-07T12:00:17.221Z: File All_Config_part5.txt updated in GitHub
+2025-09-07T12:00:17.221Z: Preparing to upload All_Config_part6.txt with 10000 configs
+2025-09-07T12:00:17.413Z: Attempt 1 to update All_Config_part6.txt
+2025-09-07T12:00:18.392Z: Successfully updated All_Config_part6.txt and stored hash
+2025-09-07T12:00:18.392Z: File All_Config_part6.txt updated in GitHub
+2025-09-07T12:00:18.392Z: Preparing to upload All_Config_part7.txt with 10000 configs
+2025-09-07T12:00:18.557Z: Attempt 1 to update All_Config_part7.txt
+2025-09-07T12:00:19.558Z: Successfully updated All_Config_part7.txt and stored hash
+2025-09-07T12:00:19.558Z: File All_Config_part7.txt updated in GitHub
+2025-09-07T12:00:19.558Z: Preparing to upload All_Config_part8.txt with 10000 configs
+2025-09-07T12:00:19.776Z: Attempt 1 to update All_Config_part8.txt
+2025-09-07T12:00:20.745Z: Successfully updated All_Config_part8.txt and stored hash
+2025-09-07T12:00:20.745Z: File All_Config_part8.txt updated in GitHub
+2025-09-07T12:00:20.745Z: Preparing to upload All_Config_part9.txt with 10000 configs
+2025-09-07T12:00:20.912Z: Attempt 1 to update All_Config_part9.txt
+2025-09-07T12:00:21.770Z: Successfully updated All_Config_part9.txt and stored hash
+2025-09-07T12:00:21.770Z: File All_Config_part9.txt updated in GitHub
+2025-09-07T12:00:21.770Z: Preparing to upload All_Config_part10.txt with 10000 configs
+2025-09-07T12:00:21.943Z: Attempt 1 to update All_Config_part10.txt
+2025-09-07T12:00:23.028Z: Successfully updated All_Config_part10.txt and stored hash
+2025-09-07T12:00:23.028Z: File All_Config_part10.txt updated in GitHub
+2025-09-07T12:00:23.028Z: Preparing to upload All_Config_part11.txt with 10000 configs
+2025-09-07T12:00:23.211Z: Attempt 1 to update All_Config_part11.txt
+2025-09-07T12:00:23.999Z: Successfully updated All_Config_part11.txt and stored hash
+2025-09-07T12:00:23.999Z: File All_Config_part11.txt updated in GitHub
+2025-09-07T12:00:23.999Z: Preparing to upload All_Config_part12.txt with 2636 configs
+2025-09-07T12:00:24.540Z: Attempt 1 to update All_Config_part12.txt
+2025-09-07T12:00:25.221Z: Successfully updated All_Config_part12.txt and stored hash
+2025-09-07T12:00:25.221Z: File All_Config_part12.txt updated in GitHub
+2025-09-07T12:00:25.221Z: Preparing to upload Hysteria2.txt with 364 configs
+2025-09-07T12:00:25.275Z: No changes in Hysteria2.txt, skipping update
+2025-09-07T12:00:25.275Z: File Hysteria2.txt updated in GitHub
+2025-09-07T12:00:25.275Z: No configs for hy2://, skipping update
+2025-09-07T12:00:25.275Z: No configs for hysteria://, skipping update
+2025-09-07T12:00:25.275Z: Preparing to upload ShadowSocks.txt with 102298 configs
+2025-09-07T12:00:25.531Z: Attempt 1 to update ShadowSocks.txt
+2025-09-07T12:00:29.227Z: Successfully updated ShadowSocks.txt and stored hash
+2025-09-07T12:00:29.227Z: File ShadowSocks.txt updated in GitHub
+2025-09-07T12:00:29.227Z: No configs for shadowsocks://, skipping update
+2025-09-07T12:00:29.227Z: Preparing to upload ShadowsocksR.txt with 38 configs
+2025-09-07T12:00:29.438Z: Attempt 1 to update ShadowsocksR.txt
+2025-09-07T12:00:30.053Z: Successfully updated ShadowsocksR.txt and stored hash
+2025-09-07T12:00:30.053Z: File ShadowsocksR.txt updated in GitHub
+2025-09-07T12:00:30.053Z: Preparing to upload Trojan.txt with 9882 configs
+2025-09-07T12:00:30.252Z: Attempt 1 to update Trojan.txt
+2025-09-07T12:00:30.922Z: Successfully updated Trojan.txt and stored hash
+2025-09-07T12:00:30.922Z: File Trojan.txt updated in GitHub
+2025-09-07T12:00:30.922Z: Preparing to upload Tuic.txt with 47 configs
+2025-09-07T12:00:30.969Z: No changes in Tuic.txt, skipping update
+2025-09-07T12:00:30.969Z: File Tuic.txt updated in GitHub
+2025-09-07T12:00:30.969Z: No configs for tuic5://, skipping update
+2025-09-07T12:00:30.969Z: No configs for vless://, skipping update
+2025-09-07T12:00:30.969Z: No configs for vmess://, skipping update
+2025-09-07T12:00:30.969Z: No configs for wireguard://, skipping update
+2025-09-07T12:00:30.969Z: Preparing to upload Other.txt with 7 configs
+2025-09-07T12:00:31.157Z: Attempt 1 to update Other.txt
+2025-09-07T12:00:31.813Z: Successfully updated Other.txt and stored hash
+2025-09-07T12:00:31.813Z: File Other.txt updated in GitHub
+2025-09-07T12:00:31.813Z: Total subrequests used: 41
