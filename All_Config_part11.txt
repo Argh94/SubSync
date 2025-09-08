@@ -883,11 +883,6 @@ ssr://ejAxMTQuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LW
 ssr://ejAxMTUuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9TkUxdmFITmxiaTB5T1RVeQ==
 ssr://ejAxMTYuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabCZyZW1hcmtzPU5FMXZhSE5sYmkweU9UVXo=
 ssr://ejAxMTcuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9TkUxdmFITmxiaTB5T1RVMA==
-trojan://ybyri59x-835t-y0h3-mpbh-o3b5hthjpniz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/09/08 | 19:52
-trojan://og19bot4-h7mh-6qux-spef-1863k8kbiqd7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://s9fynuf7-0pp1-vedt-h27v-nwdtemkigwte@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://7dwfuwc1-yg29-iyf1-8y7n-yh2f0bdqp72i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ysrasxio-j2n4-iciw-jk7y-dzk7iijpgwy8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=🔒
 trojan://%21d8jYnLU%29%3Ab%3A@172.66.46.215:8443?path=%2FeyJqdW5rIjoiTWJQVlRKeUZ1UlFtUFgiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJ0dXJrLnJhZGljYWxpemF0aW9uLmlyIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=k2zfg80-8-0jeh9h-5wtkt43r92vji0p.pages.dev&fp=chrome&type=ws&sni=K2ZFG80-8-0jEH9h-5wTKt43R92VJi0P.pageS.dEV#hamedp71%20-%20IPv4
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=🔒
@@ -9260,6 +9255,11 @@ trojan://🤍telegram___JKVPN🤍@79.137.195.203:882?type=grpc&serviceName=TELEG
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🇩🇪
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=🔒
 trojan://🤠JKVPN_JKVPN🤠@www.zula.ir:80?path=🔒
+trojan://ybyri59x-835t-y0h3-mpbh-o3b5hthjpniz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/09/08 | 19:52
+trojan://og19bot4-h7mh-6qux-spef-1863k8kbiqd7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://s9fynuf7-0pp1-vedt-h27v-nwdtemkigwte@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7dwfuwc1-yg29-iyf1-8y7n-yh2f0bdqp72i@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ysrasxio-j2n4-iciw-jk7y-dzk7iijpgwy8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
 trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp#4Mohsen-2955
 trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443?type=tcp&sni=speed.cloudflare.com&allowInsecure=1#4Mohsen-2956
 trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@104.21.69.44:443?security=tls&sni=us1.test3.net&type=ws&path=/howdy&host=us1.test3.net#4Mohsen-2957
