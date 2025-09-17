@@ -1,8 +1,8 @@
-trojan://7cz5mz72-tzgz-ai9r-77ec-tm4mgltdezto@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/09/16 | 19:54
-trojan://p1h8cvi4-6qzj-a2sw-jtql-2fr9x8fwp5ru@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://esna0tj6-epxp-7r7i-tvo3-0l56gfy3s6aq@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
-trojan://nojkp7ac-l83j-92rx-u5bk-q235r8flykyv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qn1m7x3q-mb7a-7aar-uxsw-n1filull3wl8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://iac9alnz-z6vd-emah-sr2l-88vp76nqzvqg@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/09/16 | 23:52
+trojan://ag4cwvb4-uzse-fdzk-se77-4wq3c6nbiu70@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://au81tckp-qpfc-9x1b-q86u-c1n0ocb9zz0u@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://fp24mh9x-43p0-jfn6-ql26-n1u3z8qvz2d8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://85zyiaxe-cl33-mjje-c62t-x4npt2ekt1jw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
@@ -120,6 +120,7 @@ trojan://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.215.15:443/?type=tcp&securi
 trojan://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.215.15:443/?type=tcp&security=tls&sni=
 trojan://07301100-4684-11f0-9ffa-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&host=kafka.eula.cloudns.org#DE
+trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=/Telegram@V2ray_Alpha/?ed=2048&host=kafka.eula.cloudns.org#@v2ray_configs_pool®Canada©Torontoping:28.86ms
 trojan://07efa45f-7c1b-4fca-8c1a-dba8ea554551@test98.alicesss.repl.co:443?security=tls&sni=
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5710
@@ -146,7 +147,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@172.67.176.46:443/?type=ws&path=%2F6b777a91&security=tls&sni=jobscareerfortoday.com#%40Hope_Net-join-us-on-Telegram
 trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@pardazeshvpn-tg7.pages.dev:443/?type=ws&host=pardazeshvpn-tg7.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg7.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@pardazeshvpn-tg7.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg7.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=pardazeshvpn-tg7.pages.dev#@Hope_Net-join-us-on-Telegram
-trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@pardazeshvpn-tg7.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg7.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=pardazeshvpn-tg7.pages.dev#@v2ray_configs_pool®Canada©Torontoping:27.16ms
 trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@104.21.60.120:443?security=tls&sni=
 trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@172.67.196.38:443?security=tls&sni=
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?allowInsecure=1&sni=
@@ -320,6 +320,8 @@ trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=su
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087/?type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=subhiddify.mmdv2.host#%40Hope_Net-join-us-on-Telegram
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20UCloud
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-9813
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8817
@@ -416,11 +418,9 @@ trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10841?type=tc
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10845?type=tcp&sni=
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xibaozi.19890604.day:10847?type=tcp&sni=
 trojan://1fce7b14-5ce9-4dfd-aea6-db881d50ec87@xijinping.19890604.day:10818?type=tcp&sni=
-trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#Ch@ConfigX2ray
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=/moshali2plus&security=tls&alpn=http/1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#Channel
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=
-trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#Cha@ConfigX2ray
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=/moshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http/1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=joon.arshiacomplus.dpdns.org#Channel
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=
@@ -489,8 +489,8 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?sni=23.45.86.28#%F
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:391?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.200-0626
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:391?security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1799
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1803
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1796
