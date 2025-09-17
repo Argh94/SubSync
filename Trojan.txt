@@ -1,8 +1,8 @@
-trojan://tdf3re3k-9vs0-6c16-y47n-jrsiuwnkodih@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/09/17 | 16:02
-trojan://9m8ukcq4-435g-e3de-lwuu-0xbg0cfntgo0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xv8oc1un-9vly-jp95-714p-h73b9ukpkl3e@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
-trojan://w3ofuhhx-gy4r-qvm6-civ1-og731gkd9j4b@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c64jwhoc-sd70-qrhw-gfjo-bex11iaworsr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://zgl1r7kf-9kc4-igq1-eumw-aa6dg6foytx7@127.0.0.1:1080?security=tls&type=tcp# LAST UPDATE: 2025/09/17 | 19:54
+trojan://cnit79ru-51l1-4kjq-kthv-adf24q7b75he@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cmzolq6g-aec5-flrd-6xmw-fepci3ucgu2y@127.0.0.1:4080?security=tls&type=tcp# GitHub Argh94  
+trojan://p4s9hirj-b1vn-v3y5-rf0a-5bcnuq6snqza@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://301psrh8-0s3o-iy5r-08qm-xd86o93ph50c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
@@ -103,6 +103,8 @@ trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud59.jafiyun.world:22059?secur
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud59.jafiyun.world:22059?security=tls&sni=
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud60.jafiyun.world:22060?security=tls&sni=scloud60.jafiyun.world#%F0%9F%87%A8%F0%9F%87%B3CN-183.249.20.192-057
 trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud60.jafiyun.world:22060?security=tls&sni=
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@ent1.imyourdaddy.top:20992?allowInsecure=0
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@ent1.imyourdaddy.top:20992?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.22.211:443/?type=ws&path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&sni=T.taipEi108.Dpdns.Org#%F0%9F%87%BA%F0%9F%87%B8%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E7%BE%8E%E5%9B%BD%20192
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.22.211:443/?type=ws&path=
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443/?type=ws&path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&sni=T.taipEi108.Dpdns.Org#%F0%9F%87%BA%F0%9F%87%B8%20%E5%85%B3%E6%B3%A8TG%40dafei_di%20%E7%BE%8E%E5%9B%BD%20219
@@ -315,11 +317,9 @@ trojan://157bbeb0-489f-11f0-ab40-1239d0255272@usa.test3.net:443?security=tls&hea
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=subhiddify.mmdv2.host#%40Hope_Net-join-us-on-Telegram
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087/?type=ws&host=subhiddify.mmdv2.host&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=subhiddify.mmdv2.host#%40Hope_Net-join-us-on-Telegram
+trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?security=tls&type=ws&sni=subhiddify.mmdv2.host&path=/Telegram@V2ray_Alpha/?ed=2560&host=subhiddify.mmdv2.host#@v2ray_configs_pool®Canada©Torontoping:29.53ms
 trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=0#[openproxylist.com]
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-165.154.112.107-0665
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=15.235.197.4#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-9813
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80/?type=tcp&security=tls&sni=
@@ -373,7 +373,6 @@ trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443/?type=ws&host=poO
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&type=ws&sni=
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@172.64.155.187:443/?type=tcp&security=tls
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@172.64.155.187:443/?type=tcp&security=tls&sni=
-trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#@Hope_Net-join-us-on-Telegram
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.67.76-4349
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@usla.mjt000.com:443?sni=
@@ -462,14 +461,13 @@ trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-1763
-trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
+trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://253bc477d4e43c209f2d427272968280@153.121.76.9:3160?sni=
 trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-157.120.32.122-0990
 trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443?security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG-165.22.55.206-0995
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443?security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@203.218.158.70:443?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%AD%F0%9F%87%B0HK-203.218.158.70-0640
 trojan://253bc477d4e43c209f2d427272968280@203.218.158.70:443?security=tls&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.188:1546/?type=tcp&security=tls&sni=
@@ -480,8 +478,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?allowInsecure=1&s
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?security=tls&sni=23.45.86.28#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.200-0652
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:13855?sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?allowInsecure=1&sni=23.45.86.28#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
@@ -489,17 +486,20 @@ trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?allowInsecure=1&sn
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?security=tls&sni=23.45.86.28#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.200-0646
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?security=tls&sni=
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:1806?sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?allowInsecure=1&sni=www.baidu.com#%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.200-1760
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?security=tls&sni=
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.200:4451?sni=
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1783
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1787
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1780
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-1779
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=
